@@ -1,32 +1,32 @@
-#Project Name
+# Project Name
 Barsil Portfolio
 
-#Author Name
+# Author Name
 Barsil Odiwuor Ochola
 
-#Project Description
+# Project Description
 The project is basically a webpage of general information about myself.
 
-#Project Setup Instructions
+# Project Setup Instructions
 To run the webpage:
 -clone the repository to your local machine "git clone URL"
 -cd in directory "cd "
 -open index.html on your browser.
 
-##Prerequisites
+## Prerequisites
 -Prior knowledge in Git and Github
 -Installed version of Git
 
-##Software/Tech Used
+## Software/Tech Used
 -VS Code, Sublime Text, Atom or any other text editor
 -HTML/CSS
 -Terminal/CLI
 -Git
 
-#Link to Github Pages
+# Link to Github Pages
 https://github.com/BarsilNzola/barsil-portfolio.git
 
-#Copyright and Licence
+# Copyright and Licence
 MIT License
 
 Copyright (c) 2019 John Mutavi
