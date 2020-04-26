@@ -24,7 +24,7 @@ To run the webpage:
 -Git
 
 #Link to Github Pages
-
+https://github.com/BarsilNzola/barsil-portfolio.git
 
 #Copyright and Licence
 MIT License
