@@ -1,11 +1,18 @@
 img {
-  float: left;
+  float: centre;
   width: 250px;
   height: 350px;
 }
 
 h1 {
   color: blue;
-  text-align: center;
+  text-align: left;
   font-style: Book Antigua;
+  font-size: 64;
+}
+
+.test-box {
+	margin-left: 20px;
+	align-self: center;
+	background-color: grey; 
 }
