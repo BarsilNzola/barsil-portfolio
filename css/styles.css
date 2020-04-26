@@ -47,3 +47,7 @@ h2{
 body {
 	background-color: teal;
 }
+
+.important{
+	color: blue;
+}
