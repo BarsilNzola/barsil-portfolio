@@ -10,7 +10,7 @@ The project is basically a webpage of general information about myself.
 # Project Setup Instructions
 To run the webpage:
 -clone the repository to your local machine "git clone URL"
--cd in directory "cd "
+-cd in directory "cd Independent"
 -open index.html on your browser.
 
 ## Prerequisites
